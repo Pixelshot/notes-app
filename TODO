@@ -1,0 +1,20 @@
+
+Chalk Challenge:
+  Challenge: Use Chalk library in project
+  ✔ Version 2.4.1 @done(20-05-11 16:01)
+  ✔ Load chalk into app.js @done(20-05-11 16:01)
+  ✔ Use it to print the string "Success!" to the console in green @done(20-05-11 16:03)
+  ✔ Test your work @done(20-05-11 16:03)
+
+  Bonus:
+  ✔ Make text bold and inverse color(background color instead) @done(20-05-11 16:04)
+
+readNote Challenge:
+✔ Goal: Wire up read command @done(20-07-16 17:21)
+✔ 1. Setup --title option for read command @done(20-07-16 16:47)
+✔ 2. Create readNote in note.js @done(20-07-16 16:48)
+     ✔ Search for note by title @done(20-07-16 17:21)
+     ✔ Find note and print title(styled) and body(plain) @done(20-07-16 17:21)
+     ✔ No note found? print error in red. @done(20-07-16 17:21)
+✔ 3. Have the command handler call the function @done(20-07-16 17:21)
+✔ 4. Test your work by running a couple commands @done(20-07-16 17:21)
